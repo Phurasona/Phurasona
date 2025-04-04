@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Phura Sona Sherpa 
-- 🌱 I’m currently learning c,
+- 🌱 I’m currently learning c,c++
 - 📫 How to reach me 
 contact: 9847697121
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 lets make a try
+- ⚡learning new things
 
 <!---
 Phurasona/Phurasona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
