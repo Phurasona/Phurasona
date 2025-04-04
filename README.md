@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Phurasona
-- 👀 I’m interested in 
-- 🌱 I’m currently learning c,c++
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Phura Sona Sherpa 
+- 🌱 I’m currently learning c,
 - 📫 How to reach me 
+contact: 9847697121
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
