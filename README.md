@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phura Sona Sherpa 
-- 🌱 I’m currently learning c,c++
+- 🌱 I’m currently learning c,c++,python
 - 📫 How to reach me 
 contact: 9847697121
 - 😄 lets make a try
